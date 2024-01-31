@@ -1,2 +1,2 @@
 this the new line in master
-merge
+merge new changes
